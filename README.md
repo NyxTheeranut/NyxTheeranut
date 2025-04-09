@@ -5,6 +5,7 @@
   <a href="https://nyxtheeranut.github.io/resume/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Resume-FFFFFF?style=for-the-badge&logo=readthedocs&logoColor=black" alt="Resume" />
   </a>
+  
   <a href="mailto:theeranut.sutha@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Me-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
@@ -16,8 +17,6 @@
 
 I'm a **Computer Science graduate from Kasetsart University** who loves turning ideas into digital reality.  
 Driven by curiosity, I enjoy blending functionality with creativity—whether it's designing user experiences, developing systems, or playing around with AI APIs.
-
-> 🌱 _Currently exploring: clean code, mobile app development, and building smart apps powered by APIs._
 
 ---
 
