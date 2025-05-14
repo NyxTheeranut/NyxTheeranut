@@ -26,11 +26,10 @@ Driven by curiosity, I enjoy blending functionality with creativity—whether it
 ![PHP](https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=8892BF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3670A0)
-![Dart](https://img.shields.io/badge/Dart-FFFFFF?style=for-the-badge&logo=dart&logoColor=0175C2)
+![Dart](https://img.shields.io/badge/Dart-FFFFFF?style=for-the-badge&logo=dart&logoColor=0175C2) _(Beginner)_
 
 ### 🖼️ Frontend  
 ![Vue.js](https://img.shields.io/badge/Vue.js-FFFFFF?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-FFFFFF?style=for-the-badge&logo=tailwind-css&logoColor=0EA5E9)
 ![Blade](https://img.shields.io/badge/Blade-FFFFFF?style=for-the-badge&logo=laravel&logoColor=F72C1F)
 
